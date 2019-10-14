@@ -16,6 +16,8 @@ An open project to simulate a natural Ecosystem.
 - Extinction
 - ...
 
+## Sample
+![](https://raw.githubusercontent.com/elmoiv/ecosim/master/illustration.png)
 
 ## Usage
 * #### Start / Pause: `SPACE`
