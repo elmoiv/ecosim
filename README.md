@@ -18,13 +18,13 @@ An open project to simulate a natural Ecosystem.
 
 
 ## Usage
-#### Start / Pause: `SPACE`
-#### Show / Hide Radar: `R`
-#### Show / Hide Health: `H`
-#### Show / Hide Analytics: `A`
-#### Add Food: `F`
-#### Del Food: `G`
-#### Restart: `Enter`
+* #### Start / Pause: `SPACE`
+* #### Show / Hide Radar: `R`
+* #### Show / Hide Health: `H`
+* #### Show / Hide Analytics: `A`
+* #### Add Food: `F`
+* #### Del Food: `G`
+* #### Restart: `Enter`
 
 ## Contribution
 Feel free to submit issues and enhancement requests.
