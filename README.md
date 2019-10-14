@@ -17,7 +17,12 @@ An open project to simulate a natural Ecosystem.
 - ...
 
 ## Sample
+
+* ### Rabbit Information
 ![](https://raw.githubusercontent.com/elmoiv/ecosim/master/illustration.png)
+
+* ### Ecosystem snapshot
+![](https://raw.githubusercontent.com/elmoiv/ecosim/master/illustration2.png)
 
 ## Usage
 * #### Start / Pause: `SPACE`
