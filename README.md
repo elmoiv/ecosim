@@ -10,7 +10,7 @@ An open project to simulate a natural Ecosystem.
 
 - Instinct
 - Prey and Predator
-- Life Circle
+- Life circle
 - Mating and Productivity
 - Fighting for resources
 - Extinction
